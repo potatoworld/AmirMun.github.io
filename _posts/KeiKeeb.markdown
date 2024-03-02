@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2024-02-19
-img: Keikeeb-cover.png
+img: keikeeb-cover.png
 alt: image-alt
 project-date: February 2024
 category: Keyboards and Macropads
