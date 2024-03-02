@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2024-01-21
+img: 3x3-cover.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: January 2024
+category: Keyboards and Macropads
+description: 3x3 Control Pad - Customizable MacroPad with Layers and Volume Control. This is a simple 9 key + 2 encoder macropad that runs on a Pi Pico. Total build cost is under $30. The case is 3D Printed and utilizes magnets for ease of access. The user has the ability to set upto 6 pages of macros. These macros are shown on the screen in the same 3x3 layout as the buttons and showcase the macro corosponding with the key in the same position in the grid. The left knob controls system volume, clicking it in will mute/unmute. The right knob controls the macro layers. [Github Project Link](https://github.com/potatoworld/3x3-Control-Pad)
 ---
