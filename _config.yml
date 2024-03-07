@@ -39,7 +39,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: Instagram
-    url: http://Instagram.com/a.munphotos
+    url: http://Instagram.com/_amirmun
   - title: github
     url: http://github.com/potatoworld
 
@@ -49,7 +49,7 @@ address:
   - line: Canada
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This website was created using an open source template availible here: <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
