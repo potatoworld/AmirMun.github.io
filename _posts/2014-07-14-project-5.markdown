@@ -2,10 +2,9 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+img: ccnc-cover.jpeg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: July 2022
+category: CAD, 3D Printing and Programming
+description: A Cheap (Relatively), yet (Relatively) capable CNC router/mill. The Goal for this project was to create a relatively cheap (Sub $500CAD) CNC Machine that is capable of cutting wood, plastics and soft metals. This machine utilizes many 3D Printed parts that were designed in Fusion360 and all print without support materials. Some printed parts have off the shelf alternatives, some can also be replicated in wood using basic hand tools, while other (Mainly the X Gantry Uprights) have to be printed. More information is found in the Github page along with a guide for printing and assembly. The machine was controlled by a GRBL controller and utilizes NEMA17 Stepper motors on all axis. https://github.com/potatoworld/CCNC
 ---
