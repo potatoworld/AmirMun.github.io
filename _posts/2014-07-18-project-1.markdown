@@ -6,5 +6,5 @@ img: runner.png
 alt: image-alt
 project-date: January 2022
 category: Automotive
-description: This 4Runner started off as a barn find and ended up being a fantastic daily driver after a near complete restoration. It required a lot of hard work and knowledge to complete and was extremely worth while in the end. More information on the project is availible here: https://github.com/potatoworld/97Runner/
+description: "This 4Runner started off as a barn find and ended up being a fantastic daily driver after a near complete restoration. It required a lot of hard work and knowledge to complete and was extremely worth while in the end. More information on the project is availible here: https://github.com/potatoworld/97Runner/"
 ---
