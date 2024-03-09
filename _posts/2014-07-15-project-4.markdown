@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: Vesta.png
+img: vesta.png
 alt: image-alt
 project-date: July 2022
 category: Design and CAD
