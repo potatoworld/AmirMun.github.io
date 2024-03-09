@@ -2,10 +2,9 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: Vesta.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: July 2022
+category: Design and CAD
+description: This is a project that I undertook to learn more about the sheet metal design space within Fusion 360. This case is meant to be easy to assemble, extremely compact yet still able to hold enough 3.5" HDD's for a large storage array. It stands at 445mm tall and 250mm wide. Utilizes an ITX motherboard, small form factor GPU and a full size ATX PSU. https://github.com/potatoworld/VestaNAS/
 ---
