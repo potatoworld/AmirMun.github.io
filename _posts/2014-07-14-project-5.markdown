@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: ccnc-cover.jpeg
+img: ccnc-cover.png
 alt: image-alt
 project-date: July 2022
 category: CAD, 3D Printing and Programming
