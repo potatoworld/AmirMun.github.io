@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2034-01-26
-img: knobcover.png
+img: knob-cover.png
 alt: image-alt
 project-date: January 2024
 category: Keyboards and Macropads
